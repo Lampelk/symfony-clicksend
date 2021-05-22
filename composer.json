@@ -10,8 +10,7 @@
   ],
   "require": {
     "php": ">=7.2.5",
-    "symfony/mailer": "^5.1",
-    "clicksend/clicksend-php": "^5.0"
+    "symfony/mailer": "^5.1"
   },
   "require-dev": {
     "ext-json": "*",
